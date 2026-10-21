@@ -7,7 +7,7 @@ Implementasi aplikasi desktop manajemen data mahasiswa berbasis Windows Presenta
 - **NRP:** 5025241264
 - **Kelas:** PBKK C
 - **Dosen Pengampu:** Fajar Baskoro, S.Kom., M.T.
-- **Laporan Notion:** [Buka Laporan di Notion](https://app.notion.com/p/Tugas-PBKK-C-Muhammad-Hilman-Azhar-5025241264-4009c0720c5a81338912dd4d7e9c1525)
+- **Laporan Notion:** [Buka Laporan di Notion](https://app.notion.com/p/Pertemuan-5-WPF-DataGrid-In-Memory-Student-Management-4009c0720c5a81cea4c2d2ba2f102787)
 
 ## Deskripsi Singkat
 Aplikasi Sistem Informasi Manajemen Mahasiswa (SIM-MHS) menyajikan arsitektur dashboard modern yang menghubungkan formulir input dengan tabel data reaktif:
